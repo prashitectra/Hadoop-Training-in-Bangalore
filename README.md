@@ -6,6 +6,7 @@ Big Data and Hadoop training Unlike traditional systems, Big Data and Hadoop ena
 
 
 Chapter 1: Understanding Big Data and Hadoop
+
 Big Data
 Limitations and Solutions of existing Data Analytics Architecture
 Hadoop
@@ -15,7 +16,9 @@ Hadoop 2.x core components
 Hadoop Storage: HDFS
 Hadoop Processing: MapReduce Framework
 Hadoop Different Distributions
+
 Chapter 2:Hadoop Architecture and HDFS 
+
 Hadoop 2.x Cluster Architecture - Federation and High Availability
 A Typical Production Hadoop Cluster
 Hadoop Cluster Modes
